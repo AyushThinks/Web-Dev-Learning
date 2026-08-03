@@ -51,18 +51,4 @@ This repository contains my notes, code examples, assignments, and projects whil
 
 ---
 
-# 🚀 Upcoming Topics
-
-- JavaScript Promises
-- Async / Await
-- Express.js
-- Node.js File System
-- Express Middleware
-- MongoDB
-- Authentication with Passport.js
-- Docker Basics
-- Deployment
-
----
-
 ⭐ More notes will be added as I continue my **Full Stack Web Development** journey.
